@@ -1,0 +1,5762 @@
+[
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 0
+        },
+        "total_rentals": 48
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 1
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 2
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 3
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 4
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 5
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 6
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 7
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 8
+        },
+        "total_rentals": 19
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 9
+        },
+        "total_rentals": 38
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 10
+        },
+        "total_rentals": 44
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 11
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 12
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 13
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 14
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 15
+        },
+        "total_rentals": 107
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 16
+        },
+        "total_rentals": 116
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 17
+        },
+        "total_rentals": 110
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 18
+        },
+        "total_rentals": 101
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 19
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 20
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 21
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 22
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 16,
+            "hour": 23
+        },
+        "total_rentals": 62
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 0
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 1
+        },
+        "total_rentals": 32
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 2
+        },
+        "total_rentals": 25
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 3
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 4
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 5
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 6
+        },
+        "total_rentals": 15
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 7
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 8
+        },
+        "total_rentals": 19
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 9
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 10
+        },
+        "total_rentals": 39
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 11
+        },
+        "total_rentals": 51
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 12
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 13
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 14
+        },
+        "total_rentals": 77
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 15
+        },
+        "total_rentals": 103
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 16
+        },
+        "total_rentals": 96
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 17
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 18
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 19
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 20
+        },
+        "total_rentals": 47
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 21
+        },
+        "total_rentals": 50
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 22
+        },
+        "total_rentals": 52
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 17,
+            "hour": 23
+        },
+        "total_rentals": 30
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 0
+        },
+        "total_rentals": 24
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 1
+        },
+        "total_rentals": 17
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 2
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 3
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 4
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 5
+        },
+        "total_rentals": 11
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 6
+        },
+        "total_rentals": 28
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 7
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 8
+        },
+        "total_rentals": 95
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 9
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 10
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 11
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 12
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 13
+        },
+        "total_rentals": 62
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 14
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 15
+        },
+        "total_rentals": 69
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 16
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 17
+        },
+        "total_rentals": 103
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 18
+        },
+        "total_rentals": 107
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 19
+        },
+        "total_rentals": 79
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 20
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 21
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 22
+        },
+        "total_rentals": 54
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 18,
+            "hour": 23
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 0
+        },
+        "total_rentals": 31
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 1
+        },
+        "total_rentals": 17
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 2
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 3
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 4
+        },
+        "total_rentals": 5
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 5
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 6
+        },
+        "total_rentals": 25
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 7
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 8
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 9
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 10
+        },
+        "total_rentals": 41
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 11
+        },
+        "total_rentals": 40
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 12
+        },
+        "total_rentals": 61
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 13
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 14
+        },
+        "total_rentals": 70
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 15
+        },
+        "total_rentals": 81
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 16
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 17
+        },
+        "total_rentals": 100
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 18
+        },
+        "total_rentals": 104
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 19
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 20
+        },
+        "total_rentals": 74
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 21
+        },
+        "total_rentals": 50
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 22
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 19,
+            "hour": 23
+        },
+        "total_rentals": 37
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 0
+        },
+        "total_rentals": 30
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 1
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 2
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 3
+        },
+        "total_rentals": 5
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 4
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 5
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 6
+        },
+        "total_rentals": 32
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 7
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 8
+        },
+        "total_rentals": 141
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 9
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 10
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 11
+        },
+        "total_rentals": 74
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 12
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 13
+        },
+        "total_rentals": 69
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 14
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 15
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 16
+        },
+        "total_rentals": 91
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 17
+        },
+        "total_rentals": 133
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 18
+        },
+        "total_rentals": 123
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 19
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 20
+        },
+        "total_rentals": 70
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 21
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 22
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 20,
+            "hour": 23
+        },
+        "total_rentals": 45
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 0
+        },
+        "total_rentals": 26
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 1
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 2
+        },
+        "total_rentals": 6
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 3
+        },
+        "total_rentals": 6
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 4
+        },
+        "total_rentals": 1
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 5
+        },
+        "total_rentals": 11
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 6
+        },
+        "total_rentals": 19
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 7
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 8
+        },
+        "total_rentals": 101
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 9
+        },
+        "total_rentals": 89
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 10
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 11
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 12
+        },
+        "total_rentals": 69
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 13
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 14
+        },
+        "total_rentals": 92
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 15
+        },
+        "total_rentals": 85
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 16
+        },
+        "total_rentals": 110
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 17
+        },
+        "total_rentals": 152
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 18
+        },
+        "total_rentals": 159
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 19
+        },
+        "total_rentals": 116
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 20
+        },
+        "total_rentals": 97
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 21
+        },
+        "total_rentals": 101
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 22
+        },
+        "total_rentals": 87
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 21,
+            "hour": 23
+        },
+        "total_rentals": 51
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 0
+        },
+        "total_rentals": 44
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 1
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 2
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 3
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 4
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 5
+        },
+        "total_rentals": 15
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 6
+        },
+        "total_rentals": 33
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 7
+        },
+        "total_rentals": 85
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 8
+        },
+        "total_rentals": 131
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 9
+        },
+        "total_rentals": 139
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 10
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 11
+        },
+        "total_rentals": 61
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 12
+        },
+        "total_rentals": 87
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 13
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 14
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 15
+        },
+        "total_rentals": 81
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 16
+        },
+        "total_rentals": 122
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 17
+        },
+        "total_rentals": 144
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 18
+        },
+        "total_rentals": 152
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 19
+        },
+        "total_rentals": 119
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 20
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 21
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 22
+        },
+        "total_rentals": 79
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 22,
+            "hour": 23
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 0
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 1
+        },
+        "total_rentals": 35
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 2
+        },
+        "total_rentals": 26
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 3
+        },
+        "total_rentals": 20
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 4
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 5
+        },
+        "total_rentals": 14
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 6
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 7
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 8
+        },
+        "total_rentals": 32
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 9
+        },
+        "total_rentals": 46
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 10
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 11
+        },
+        "total_rentals": 89
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 12
+        },
+        "total_rentals": 95
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 13
+        },
+        "total_rentals": 110
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 14
+        },
+        "total_rentals": 116
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 15
+        },
+        "total_rentals": 109
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 16
+        },
+        "total_rentals": 108
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 17
+        },
+        "total_rentals": 114
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 18
+        },
+        "total_rentals": 108
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 19
+        },
+        "total_rentals": 96
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 20
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 21
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 22
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 23,
+            "hour": 23
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 0
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 1
+        },
+        "total_rentals": 29
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 2
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 3
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 4
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 5
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 6
+        },
+        "total_rentals": 5
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 7
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 8
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 9
+        },
+        "total_rentals": 32
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 10
+        },
+        "total_rentals": 51
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 11
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 12
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 13
+        },
+        "total_rentals": 76
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 14
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 15
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 16
+        },
+        "total_rentals": 101
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 17
+        },
+        "total_rentals": 83
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 18
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 19
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 20
+        },
+        "total_rentals": 48
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 21
+        },
+        "total_rentals": 49
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 22
+        },
+        "total_rentals": 45
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 24,
+            "hour": 23
+        },
+        "total_rentals": 32
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 0
+        },
+        "total_rentals": 26
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 1
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 2
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 3
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 4
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 5
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 6
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 7
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 8
+        },
+        "total_rentals": 97
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 9
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 10
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 11
+        },
+        "total_rentals": 39
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 12
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 13
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 14
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 15
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 16
+        },
+        "total_rentals": 79
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 17
+        },
+        "total_rentals": 112
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 18
+        },
+        "total_rentals": 92
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 19
+        },
+        "total_rentals": 94
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 20
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 21
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 22
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 25,
+            "hour": 23
+        },
+        "total_rentals": 37
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 0
+        },
+        "total_rentals": 20
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 1
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 2
+        },
+        "total_rentals": 6
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 3
+        },
+        "total_rentals": 5
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 4
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 5
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 6
+        },
+        "total_rentals": 30
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 7
+        },
+        "total_rentals": 102
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 8
+        },
+        "total_rentals": 147
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 9
+        },
+        "total_rentals": 109
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 10
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 11
+        },
+        "total_rentals": 56
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 12
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 13
+        },
+        "total_rentals": 74
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 14
+        },
+        "total_rentals": 81
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 15
+        },
+        "total_rentals": 82
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 16
+        },
+        "total_rentals": 92
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 17
+        },
+        "total_rentals": 113
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 18
+        },
+        "total_rentals": 125
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 19
+        },
+        "total_rentals": 107
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 20
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 21
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 22
+        },
+        "total_rentals": 79
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 26,
+            "hour": 23
+        },
+        "total_rentals": 43
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 0
+        },
+        "total_rentals": 23
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 1
+        },
+        "total_rentals": 14
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 2
+        },
+        "total_rentals": 11
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 3
+        },
+        "total_rentals": 2
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 4
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 5
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 6
+        },
+        "total_rentals": 30
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 7
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 8
+        },
+        "total_rentals": 100
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 9
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 10
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 11
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 12
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 13
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 14
+        },
+        "total_rentals": 62
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 15
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 16
+        },
+        "total_rentals": 74
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 17
+        },
+        "total_rentals": 121
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 18
+        },
+        "total_rentals": 117
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 19
+        },
+        "total_rentals": 97
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 20
+        },
+        "total_rentals": 77
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 21
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 22
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 27,
+            "hour": 23
+        },
+        "total_rentals": 41
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 0
+        },
+        "total_rentals": 28
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 1
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 2
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 3
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 4
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 5
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 6
+        },
+        "total_rentals": 45
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 7
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 8
+        },
+        "total_rentals": 139
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 9
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 10
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 11
+        },
+        "total_rentals": 44
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 12
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 13
+        },
+        "total_rentals": 54
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 14
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 15
+        },
+        "total_rentals": 95
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 16
+        },
+        "total_rentals": 94
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 17
+        },
+        "total_rentals": 128
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 18
+        },
+        "total_rentals": 141
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 19
+        },
+        "total_rentals": 94
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 20
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 21
+        },
+        "total_rentals": 94
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 22
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 28,
+            "hour": 23
+        },
+        "total_rentals": 52
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 0
+        },
+        "total_rentals": 42
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 1
+        },
+        "total_rentals": 17
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 2
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 3
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 4
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 5
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 6
+        },
+        "total_rentals": 23
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 7
+        },
+        "total_rentals": 56
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 8
+        },
+        "total_rentals": 102
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 9
+        },
+        "total_rentals": 79
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 10
+        },
+        "total_rentals": 62
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 11
+        },
+        "total_rentals": 70
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 12
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 13
+        },
+        "total_rentals": 70
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 14
+        },
+        "total_rentals": 83
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 15
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 16
+        },
+        "total_rentals": 107
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 17
+        },
+        "total_rentals": 134
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 18
+        },
+        "total_rentals": 107
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 19
+        },
+        "total_rentals": 99
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 20
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 21
+        },
+        "total_rentals": 87
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 22
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 29,
+            "hour": 23
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 0
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 1
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 2
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 3
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 4
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 5
+        },
+        "total_rentals": 14
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 6
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 7
+        },
+        "total_rentals": 20
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 8
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 9
+        },
+        "total_rentals": 38
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 10
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 11
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 12
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 13
+        },
+        "total_rentals": 93
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 14
+        },
+        "total_rentals": 89
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 15
+        },
+        "total_rentals": 85
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 16
+        },
+        "total_rentals": 104
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 17
+        },
+        "total_rentals": 106
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 18
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 19
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 20
+        },
+        "total_rentals": 61
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 21
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 22
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 30,
+            "hour": 23
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 0
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 1
+        },
+        "total_rentals": 39
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 2
+        },
+        "total_rentals": 15
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 3
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 4
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 5
+        },
+        "total_rentals": 14
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 6
+        },
+        "total_rentals": 19
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 7
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 8
+        },
+        "total_rentals": 11
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 9
+        },
+        "total_rentals": 33
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 10
+        },
+        "total_rentals": 38
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 11
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 12
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 13
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 14
+        },
+        "total_rentals": 85
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 15
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 16
+        },
+        "total_rentals": 89
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 17
+        },
+        "total_rentals": 54
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 18
+        },
+        "total_rentals": 85
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 19
+        },
+        "total_rentals": 54
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 20
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 21
+        },
+        "total_rentals": 62
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 22
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 1,
+            "day": 31,
+            "hour": 23
+        },
+        "total_rentals": 28
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 0
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 1
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 2
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 3
+        },
+        "total_rentals": 5
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 4
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 5
+        },
+        "total_rentals": 15
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 6
+        },
+        "total_rentals": 24
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 7
+        },
+        "total_rentals": 61
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 8
+        },
+        "total_rentals": 74
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 9
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 10
+        },
+        "total_rentals": 47
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 11
+        },
+        "total_rentals": 47
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 12
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 13
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 14
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 15
+        },
+        "total_rentals": 76
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 16
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 17
+        },
+        "total_rentals": 105
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 18
+        },
+        "total_rentals": 102
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 19
+        },
+        "total_rentals": 82
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 20
+        },
+        "total_rentals": 49
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 21
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 22
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 1,
+            "hour": 23
+        },
+        "total_rentals": 49
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 0
+        },
+        "total_rentals": 23
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 1
+        },
+        "total_rentals": 23
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 2
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 3
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 4
+        },
+        "total_rentals": 6
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 5
+        },
+        "total_rentals": 14
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 6
+        },
+        "total_rentals": 24
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 7
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 8
+        },
+        "total_rentals": 85
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 9
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 10
+        },
+        "total_rentals": 41
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 11
+        },
+        "total_rentals": 49
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 12
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 13
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 14
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 15
+        },
+        "total_rentals": 69
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 16
+        },
+        "total_rentals": 95
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 17
+        },
+        "total_rentals": 97
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 18
+        },
+        "total_rentals": 91
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 19
+        },
+        "total_rentals": 82
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 20
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 21
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 22
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 2,
+            "hour": 23
+        },
+        "total_rentals": 54
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 0
+        },
+        "total_rentals": 29
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 1
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 2
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 3
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 4
+        },
+        "total_rentals": 6
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 5
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 6
+        },
+        "total_rentals": 23
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 7
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 8
+        },
+        "total_rentals": 104
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 9
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 10
+        },
+        "total_rentals": 51
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 11
+        },
+        "total_rentals": 49
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 12
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 13
+        },
+        "total_rentals": 61
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 14
+        },
+        "total_rentals": 77
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 15
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 16
+        },
+        "total_rentals": 98
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 17
+        },
+        "total_rentals": 116
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 18
+        },
+        "total_rentals": 120
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 19
+        },
+        "total_rentals": 94
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 20
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 21
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 22
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 3,
+            "hour": 23
+        },
+        "total_rentals": 50
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 0
+        },
+        "total_rentals": 17
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 1
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 2
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 3
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 4
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 5
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 6
+        },
+        "total_rentals": 25
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 7
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 8
+        },
+        "total_rentals": 109
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 9
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 10
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 11
+        },
+        "total_rentals": 62
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 12
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 13
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 14
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 15
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 16
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 17
+        },
+        "total_rentals": 118
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 18
+        },
+        "total_rentals": 118
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 19
+        },
+        "total_rentals": 107
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 20
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 21
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 22
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 4,
+            "hour": 23
+        },
+        "total_rentals": 46
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 0
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 1
+        },
+        "total_rentals": 33
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 2
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 3
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 4
+        },
+        "total_rentals": 6
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 5
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 6
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 7
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 8
+        },
+        "total_rentals": 106
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 9
+        },
+        "total_rentals": 76
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 10
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 11
+        },
+        "total_rentals": 56
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 12
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 13
+        },
+        "total_rentals": 81
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 14
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 15
+        },
+        "total_rentals": 97
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 16
+        },
+        "total_rentals": 100
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 17
+        },
+        "total_rentals": 127
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 18
+        },
+        "total_rentals": 119
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 19
+        },
+        "total_rentals": 102
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 20
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 21
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 22
+        },
+        "total_rentals": 89
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 5,
+            "hour": 23
+        },
+        "total_rentals": 77
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 0
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 1
+        },
+        "total_rentals": 40
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 2
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 3
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 4
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 5
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 6
+        },
+        "total_rentals": 13
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 7
+        },
+        "total_rentals": 32
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 8
+        },
+        "total_rentals": 28
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 9
+        },
+        "total_rentals": 52
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 10
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 11
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 12
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 13
+        },
+        "total_rentals": 95
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 14
+        },
+        "total_rentals": 126
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 15
+        },
+        "total_rentals": 111
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 16
+        },
+        "total_rentals": 100
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 17
+        },
+        "total_rentals": 93
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 18
+        },
+        "total_rentals": 98
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 19
+        },
+        "total_rentals": 98
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 20
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 21
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 22
+        },
+        "total_rentals": 69
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 6,
+            "hour": 23
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 0
+        },
+        "total_rentals": 50
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 1
+        },
+        "total_rentals": 31
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 2
+        },
+        "total_rentals": 27
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 3
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 4
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 5
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 6
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 7
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 8
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 9
+        },
+        "total_rentals": 30
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 10
+        },
+        "total_rentals": 42
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 11
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 12
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 13
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 14
+        },
+        "total_rentals": 78
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 15
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 16
+        },
+        "total_rentals": 92
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 17
+        },
+        "total_rentals": 89
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 18
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 19
+        },
+        "total_rentals": 53
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 20
+        },
+        "total_rentals": 52
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 21
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 22
+        },
+        "total_rentals": 39
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 7,
+            "hour": 23
+        },
+        "total_rentals": 48
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 0
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 1
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 2
+        },
+        "total_rentals": 5
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 3
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 4
+        },
+        "total_rentals": 2
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 5
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 6
+        },
+        "total_rentals": 27
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 7
+        },
+        "total_rentals": 79
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 8
+        },
+        "total_rentals": 124
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 9
+        },
+        "total_rentals": 82
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 10
+        },
+        "total_rentals": 69
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 11
+        },
+        "total_rentals": 55
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 12
+        },
+        "total_rentals": 54
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 13
+        },
+        "total_rentals": 74
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 14
+        },
+        "total_rentals": 77
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 15
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 16
+        },
+        "total_rentals": 95
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 17
+        },
+        "total_rentals": 119
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 18
+        },
+        "total_rentals": 117
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 19
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 20
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 21
+        },
+        "total_rentals": 57
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 22
+        },
+        "total_rentals": 46
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 8,
+            "hour": 23
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 0
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 1
+        },
+        "total_rentals": 14
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 2
+        },
+        "total_rentals": 6
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 3
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 4
+        },
+        "total_rentals": 1
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 5
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 6
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 7
+        },
+        "total_rentals": 71
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 8
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 9
+        },
+        "total_rentals": 67
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 10
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 11
+        },
+        "total_rentals": 46
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 12
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 13
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 14
+        },
+        "total_rentals": 70
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 15
+        },
+        "total_rentals": 60
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 16
+        },
+        "total_rentals": 96
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 17
+        },
+        "total_rentals": 112
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 18
+        },
+        "total_rentals": 110
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 19
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 20
+        },
+        "total_rentals": 83
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 21
+        },
+        "total_rentals": 73
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 22
+        },
+        "total_rentals": 56
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 9,
+            "hour": 23
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 0
+        },
+        "total_rentals": 30
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 1
+        },
+        "total_rentals": 14
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 2
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 3
+        },
+        "total_rentals": 2
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 4
+        },
+        "total_rentals": 7
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 5
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 6
+        },
+        "total_rentals": 22
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 7
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 8
+        },
+        "total_rentals": 93
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 9
+        },
+        "total_rentals": 70
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 10
+        },
+        "total_rentals": 56
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 11
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 12
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 13
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 14
+        },
+        "total_rentals": 94
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 15
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 16
+        },
+        "total_rentals": 77
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 17
+        },
+        "total_rentals": 126
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 18
+        },
+        "total_rentals": 117
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 19
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 20
+        },
+        "total_rentals": 91
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 21
+        },
+        "total_rentals": 74
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 22
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 10,
+            "hour": 23
+        },
+        "total_rentals": 43
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 0
+        },
+        "total_rentals": 26
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 1
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 2
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 3
+        },
+        "total_rentals": 4
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 4
+        },
+        "total_rentals": 3
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 5
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 6
+        },
+        "total_rentals": 33
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 7
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 8
+        },
+        "total_rentals": 109
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 9
+        },
+        "total_rentals": 92
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 10
+        },
+        "total_rentals": 59
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 11
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 12
+        },
+        "total_rentals": 76
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 13
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 14
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 15
+        },
+        "total_rentals": 97
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 16
+        },
+        "total_rentals": 102
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 17
+        },
+        "total_rentals": 94
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 18
+        },
+        "total_rentals": 111
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 19
+        },
+        "total_rentals": 81
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 20
+        },
+        "total_rentals": 97
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 21
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 22
+        },
+        "total_rentals": 84
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 11,
+            "hour": 23
+        },
+        "total_rentals": 49
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 0
+        },
+        "total_rentals": 36
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 1
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 2
+        },
+        "total_rentals": 9
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 3
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 4
+        },
+        "total_rentals": 11
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 5
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 6
+        },
+        "total_rentals": 28
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 7
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 8
+        },
+        "total_rentals": 98
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 9
+        },
+        "total_rentals": 77
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 10
+        },
+        "total_rentals": 68
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 11
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 12
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 13
+        },
+        "total_rentals": 75
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 14
+        },
+        "total_rentals": 86
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 15
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 16
+        },
+        "total_rentals": 89
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 17
+        },
+        "total_rentals": 117
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 18
+        },
+        "total_rentals": 110
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 19
+        },
+        "total_rentals": 103
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 20
+        },
+        "total_rentals": 63
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 21
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 22
+        },
+        "total_rentals": 62
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 12,
+            "hour": 23
+        },
+        "total_rentals": 46
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 0
+        },
+        "total_rentals": 42
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 1
+        },
+        "total_rentals": 34
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 2
+        },
+        "total_rentals": 28
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 3
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 4
+        },
+        "total_rentals": 11
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 5
+        },
+        "total_rentals": 10
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 6
+        },
+        "total_rentals": 15
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 7
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 8
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 9
+        },
+        "total_rentals": 46
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 10
+        },
+        "total_rentals": 76
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 11
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 12
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 13
+        },
+        "total_rentals": 85
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 14
+        },
+        "total_rentals": 106
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 15
+        },
+        "total_rentals": 82
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 16
+        },
+        "total_rentals": 114
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 17
+        },
+        "total_rentals": 123
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 18
+        },
+        "total_rentals": 141
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 19
+        },
+        "total_rentals": 115
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 20
+        },
+        "total_rentals": 90
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 21
+        },
+        "total_rentals": 93
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 22
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 13,
+            "hour": 23
+        },
+        "total_rentals": 80
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 0
+        },
+        "total_rentals": 66
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 1
+        },
+        "total_rentals": 45
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 2
+        },
+        "total_rentals": 21
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 3
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 4
+        },
+        "total_rentals": 16
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 5
+        },
+        "total_rentals": 8
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 6
+        },
+        "total_rentals": 17
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 7
+        },
+        "total_rentals": 12
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 8
+        },
+        "total_rentals": 18
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 9
+        },
+        "total_rentals": 29
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 10
+        },
+        "total_rentals": 64
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 11
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 12
+        },
+        "total_rentals": 70
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 13
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 14
+        },
+        "total_rentals": 92
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 15
+        },
+        "total_rentals": 88
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 16
+        },
+        "total_rentals": 82
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 17
+        },
+        "total_rentals": 100
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 18
+        },
+        "total_rentals": 72
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 19
+        },
+        "total_rentals": 65
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 20
+        },
+        "total_rentals": 58
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 21
+        },
+        "total_rentals": 43
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 22
+        },
+        "total_rentals": 50
+    },
+    {
+        "_id": {
+            "month": 2,
+            "day": 14,
+            "hour": 23
+        },
+        "total_rentals": 22
+    }
+]
